@@ -31,7 +31,7 @@ The Black Box, typically associated with airplanes, is crucial for analyzing inc
     - **Download log**: Uses UART communication; data appears on Serial monitor.
     - Long press Matrix SW11 to navigate back to the Dashboard.
 
-#sftware Tools Used
+#Software Tools Used
 - [1. MPLABxIDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
 - [2. MPLABxC8 Compiler](https://www.microchip.com/mplab/compilers)
 - [3. PICSim Lab Simulator](https://www.picsimlab.com/)
